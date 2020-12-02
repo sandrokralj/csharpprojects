@@ -1,0 +1,8 @@
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\bin\Debug\RentClient.exe.config
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\bin\Debug\RentClient.exe
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\bin\Debug\RentClient.pdb
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\obj\Debug\RentClient.Form1.resources
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\obj\Debug\RentClient.Properties.Resources.resources
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\obj\Debug\rent client.csproj.GenerateResource.Cache
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\obj\Debug\RentClient.exe
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\RentClient\obj\Debug\RentClient.pdb

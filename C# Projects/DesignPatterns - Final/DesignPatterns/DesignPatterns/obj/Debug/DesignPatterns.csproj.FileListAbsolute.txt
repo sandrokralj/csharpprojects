@@ -1,0 +1,32 @@
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Form1.resources
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.cache
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.CookingForm.resources
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.RestaurantForm.resources
+C:\Users\stefa\Desktop\DPR Retake mini project\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.CookingForm.resources
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.RestaurantForm.resources
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.cache
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Fakultet\DPR\DesignPatterns - Final\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

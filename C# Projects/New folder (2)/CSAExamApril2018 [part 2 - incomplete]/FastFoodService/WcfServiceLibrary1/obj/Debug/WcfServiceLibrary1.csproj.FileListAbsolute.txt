@@ -1,0 +1,20 @@
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

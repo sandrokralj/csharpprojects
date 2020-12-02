@@ -1,0 +1,10 @@
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe.config
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.ClientForm.resources
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.Properties.Resources.resources
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.GenerateResource.cache
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.exe
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csprojAssemblyReference.cache

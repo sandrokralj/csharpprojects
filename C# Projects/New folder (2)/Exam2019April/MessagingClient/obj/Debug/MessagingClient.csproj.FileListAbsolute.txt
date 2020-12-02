@@ -1,0 +1,10 @@
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\bin\Debug\MessagingClient.exe.config
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\bin\Debug\MessagingClient.exe
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\bin\Debug\MessagingClient.pdb
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.csprojAssemblyReference.cache
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.Form1.resources
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.Properties.Resources.resources
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.csproj.GenerateResource.cache
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.exe
+D:\Fakultet\CSA\New folder (2)\Exam2019April\MessagingClient\obj\Debug\MessagingClient.pdb

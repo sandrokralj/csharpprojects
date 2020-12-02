@@ -1,0 +1,10 @@
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Form1.resources
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.cache
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Fakultet\DPR\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a67fd2e8-a45b-4666-ac85-1ac0d83a702d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/FastFoodService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="4471257f-4241-41da-b8f0-1c000fabf0a8" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FastFoodService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="dc8ce2d3-aea8-4535-8b16-04153c3fbe29" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FastFoodService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="674c46fc-f8e8-4292-a36b-38a668def981" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FastFoodService/Service1/mex" />
+    <MetadataFile FileName="FastFoodService.xsd" MetadataType="Schema" ID="bfa35d0c-5fba-4457-b95c-0d8af92426af" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FastFoodService/Service1/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="787d79a6-25f7-499a-bef2-5db523be385d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/FastFoodService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

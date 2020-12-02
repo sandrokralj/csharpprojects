@@ -1,0 +1,7 @@
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\bin\Debug\service.exe.config
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\bin\Debug\service.exe
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\bin\Debug\service.pdb
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\obj\Debug\service.csprojAssemblyReference.cache
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\obj\Debug\service.exe
+D:\Fakultet\CSA\New folder (2)\Week2WCFApp\service\obj\Debug\service.pdb

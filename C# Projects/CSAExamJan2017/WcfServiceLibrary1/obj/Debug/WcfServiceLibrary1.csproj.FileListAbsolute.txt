@@ -1,0 +1,13 @@
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Fakultet\CSA\CSAExamJan2017\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Fakultet\CSA\CSAExamJan2017\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Fakultet\CSA\CSAExamJan2017\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Fakultet\CSA\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Fakultet\CSA\CSAExamJan2017\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

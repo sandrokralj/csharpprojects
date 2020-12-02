@@ -1,0 +1,17 @@
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\City Traffic Simulation Application.Tests.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\City Traffic Simulation Application.Tests.pdb
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\City Traffic Simulation Application.exe
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\City Traffic Simulation Application.pdb
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\City Traffic Simulation Application.exe.config
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\obj\Debug\City Traffic Simulation Application.Tests.csprojAssemblyReference.cache
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\obj\Debug\City Traffic Simulation Application.Tests.csproj.CoreCompileInputs.cache
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\obj\Debug\City Traffic Simulation Application.Tests.csproj.CopyComplete
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\obj\Debug\City Traffic Simulation Application.Tests.dll
+D:\Fakultet\ProCP\procp\City Traffic Simulation Application\City Traffic Simulation Application.Tests\obj\Debug\City Traffic Simulation Application.Tests.pdb

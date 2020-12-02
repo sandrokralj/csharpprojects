@@ -1,0 +1,9 @@
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Debug\Deliveries.exe.config
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Debug\Deliveries.exe
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\bin\Debug\Deliveries.pdb
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.Form1.resources
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.Properties.Resources.resources
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.csproj.GenerateResource.Cache
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.csproj.CoreCompileInputs.cache
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.exe
+C:\Users\875196\Downloads\pcs4, week 2 delivering deliverables STARTUP\pcs4, week 2 delivering deliverables STARTUP\Deliveries\obj\Debug\Deliveries.pdb

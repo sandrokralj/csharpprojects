@@ -1,0 +1,48 @@
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csprojResolveAssemblyReference.cache
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.Cache
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CoreCompileInputs.cache
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+C:\Users\876989\source\repos\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb
+Z:\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+Z:\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+Z:\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb
+Z:\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csprojResolveAssemblyReference.cache
+Z:\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+Z:\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+Z:\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.Cache
+Z:\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+Z:\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+Z:\FastFoodService\TakeOutAdmin\bin\Debug\FastFoodService.dll
+Z:\FastFoodService\TakeOutAdmin\bin\Debug\FastFoodService.pdb
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\bin\Debug\FastFoodService.dll
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\bin\Debug\FastFoodService.pdb
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\bin\Debug\FastFoodService.dll.config
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csprojResolveAssemblyReference.cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.Cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CoreCompileInputs.cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+C:\Users\876989\Dropbox\_CSA\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\bin\Debug\FastFoodService.dll
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\bin\Debug\FastFoodService.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\bin\Debug\FastFoodService.dll.config
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.csprojAssemblyReference.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CopyComplete
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+D:\Fakultet\CSA\CSAExamApril2018 solution\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb

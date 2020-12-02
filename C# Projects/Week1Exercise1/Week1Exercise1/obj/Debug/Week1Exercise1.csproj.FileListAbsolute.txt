@@ -1,0 +1,10 @@
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\bin\Debug\Week1Exercise1.exe.config
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\bin\Debug\Week1Exercise1.exe
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\bin\Debug\Week1Exercise1.pdb
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.csprojAssemblyReference.cache
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.Form1.resources
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.Properties.Resources.resources
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.csproj.GenerateResource.cache
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.csproj.CoreCompileInputs.cache
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.exe
+D:\Fakultet\PCS4\Week1Exercise1\Week1Exercise1\obj\Debug\Week1Exercise1.pdb

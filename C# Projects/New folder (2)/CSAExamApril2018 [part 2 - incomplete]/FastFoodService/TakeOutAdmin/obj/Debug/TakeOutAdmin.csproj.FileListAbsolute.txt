@@ -1,0 +1,29 @@
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.cache
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csprojAssemblyReference.cache
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.cache
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+C:\Users\avvett\Desktop\CSAExamApril2018 [part 1]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe.config
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.exe
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\bin\Debug\TakeOutAdmin.pdb
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csprojAssemblyReference.cache
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.Properties.Resources.resources
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.AdminForm.resources
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.GenerateResource.cache
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.exe
+D:\Fakultet\CSA\New folder (2)\CSAExamApril2018 [part 2 - incomplete]\FastFoodService\TakeOutAdmin\obj\Debug\TakeOutAdmin.pdb

@@ -1,0 +1,38 @@
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe.config
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.pdb
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.ClientForm.resources
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.Properties.Resources.resources
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.GenerateResource.Cache
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.CoreCompileInputs.cache
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.exe
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.pdb
+C:\Users\876989\source\repos\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csprojResolveAssemblyReference.cache
+Z:\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe.config
+Z:\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.exe
+Z:\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.pdb
+Z:\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe
+Z:\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.pdb
+Z:\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csprojResolveAssemblyReference.cache
+Z:\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.ClientForm.resources
+Z:\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.Properties.Resources.resources
+Z:\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.GenerateResource.Cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe.config
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.exe
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\bin\Debug\SelfOrderClient.pdb
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csprojResolveAssemblyReference.cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.ClientForm.resources
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.Properties.Resources.resources
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.GenerateResource.Cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.CoreCompileInputs.cache
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.exe
+C:\Users\876989\Dropbox\_CSA\FastFoodService\SelfOrderClient\obj\Debug\SelfOrderClient.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\bin\Debug\SelfOrderClient.exe.config
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\bin\Debug\SelfOrderClient.exe
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\bin\Debug\SelfOrderClient.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\obj\Debug\SelfOrderClient.ClientForm.resources
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\obj\Debug\SelfOrderClient.Properties.Resources.resources
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.GenerateResource.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\obj\Debug\SelfOrderClient.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\obj\Debug\SelfOrderClient.exe
+D:\Fakultet\CSA\CSAExamApril2018 solution\SelfOrderClient\obj\Debug\SelfOrderClient.pdb

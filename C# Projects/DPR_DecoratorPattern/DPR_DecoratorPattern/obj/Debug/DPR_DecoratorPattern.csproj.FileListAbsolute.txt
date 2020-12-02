@@ -1,0 +1,10 @@
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\bin\Debug\DPR_DecoratorPattern.exe.config
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\bin\Debug\DPR_DecoratorPattern.exe
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\bin\Debug\DPR_DecoratorPattern.pdb
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.csprojAssemblyReference.cache
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.Form1.resources
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.Properties.Resources.resources
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.csproj.GenerateResource.cache
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.exe
+D:\Fakultet\DPR\DPR_DecoratorPattern\DPR_DecoratorPattern\obj\Debug\DPR_DecoratorPattern.pdb

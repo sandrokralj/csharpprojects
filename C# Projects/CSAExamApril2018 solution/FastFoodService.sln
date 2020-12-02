@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoodService", "FastFoodService\FastFoodService.csproj", "{26C93E88-194B-4F44-8984-7F56C860BEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfOrderClient", "SelfOrderClient\SelfOrderClient.csproj", "{38B6192A-401F-416B-874E-C17A42FA4798}"
+	ProjectSection(ProjectDependencies) = postProject
+		{26C93E88-194B-4F44-8984-7F56C860BEB5} = {26C93E88-194B-4F44-8984-7F56C860BEB5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeOutAdmin", "TakeOutAdmin\TakeOutAdmin.csproj", "{5A351ECC-2361-4041-BF7B-B0901926998C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{26C93E88-194B-4F44-8984-7F56C860BEB5} = {26C93E88-194B-4F44-8984-7F56C860BEB5}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C93E88-194B-4F44-8984-7F56C860BEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C93E88-194B-4F44-8984-7F56C860BEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C93E88-194B-4F44-8984-7F56C860BEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C93E88-194B-4F44-8984-7F56C860BEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B6192A-401F-416B-874E-C17A42FA4798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B6192A-401F-416B-874E-C17A42FA4798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B6192A-401F-416B-874E-C17A42FA4798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B6192A-401F-416B-874E-C17A42FA4798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A351ECC-2361-4041-BF7B-B0901926998C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A351ECC-2361-4041-BF7B-B0901926998C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A351ECC-2361-4041-BF7B-B0901926998C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A351ECC-2361-4041-BF7B-B0901926998C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48936281-8102-42DC-95AB-E88E003BA7BE}
+	EndGlobalSection
+EndGlobal

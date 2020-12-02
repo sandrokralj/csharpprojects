@@ -1,0 +1,18 @@
+    ÿÿÿÿ          ZCity Traffic Simulation Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null   'City_Traffic_Simulation_Application.Car  
+ xy$Entity+<nextWayPoint>k__Backing
+FieldEntity+<id>k__BackingField Entity+<maxSpeed
+>k__BackingFieldEntity+<Speed>k__BackingFieldEntity+<Accel>k__B
+ackingFieldEntity+<Decel>k__BackingFieldEntity+<road>k__B
+ackingField$Entity+<roadProgress>k__BackingFieldEntity+<path>k
+
+__BackingFieldEntity+<xoffset>k__BackingFieldEntity+<yoffset>k_
+_BackingFieldEntity+<driving>k__BackingFieldEntity+distanceTill
+WaypointEntity+ratioXEntity+ratioY            
+   ,City_Traffic_Simulation_Application.Waypoint 
+  (City_Traffic_Simulation_Application.Road       
+      @      @	      š™™™™™¹?        -Cëâ6?        
+                          @      ð¿           ,City_Traffic_Simulation_Application.Waypoint   nextWaypointwaypointStraightwaypointLeftwaypointRightxy  ,City_Traffic_Simulation_Application.Waypoint   ,City_Traffic_Simulation_Application.Waypoint   ,City_Traffic_Simulation_Application.Waypoint   ,City_Traffic_Simulation_Application.Waypoint      
+
+
+
+       @      @

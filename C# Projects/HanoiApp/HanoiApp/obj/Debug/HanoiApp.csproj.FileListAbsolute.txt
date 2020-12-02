@@ -1,0 +1,9 @@
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\bin\Debug\HanoiApp.exe.config
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\bin\Debug\HanoiApp.exe
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\bin\Debug\HanoiApp.pdb
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\obj\Debug\HanoiApp.csprojResolveAssemblyReference.cache
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\obj\Debug\HanoiApp.Form1.resources
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\obj\Debug\HanoiApp.Properties.Resources.resources
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\obj\Debug\HanoiApp.csproj.GenerateResource.Cache
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\obj\Debug\HanoiApp.exe
+C:\Bert\pcs4\week 4\HanoiApp\HanoiApp\obj\Debug\HanoiApp.pdb

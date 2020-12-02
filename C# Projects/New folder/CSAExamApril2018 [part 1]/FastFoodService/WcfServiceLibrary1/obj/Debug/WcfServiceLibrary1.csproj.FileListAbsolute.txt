@@ -1,0 +1,7 @@
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\avvett\Desktop\CSAExamApril2018\FastFoodService\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache

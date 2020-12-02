@@ -1,0 +1,10 @@
+D:\Fakultet\CSA\webshopservice\WebshopApp\bin\Debug\WebshopApp.exe.config
+D:\Fakultet\CSA\webshopservice\WebshopApp\bin\Debug\WebshopApp.exe
+D:\Fakultet\CSA\webshopservice\WebshopApp\bin\Debug\WebshopApp.pdb
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.Form1.resources
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.Properties.Resources.resources
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.csproj.GenerateResource.cache
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.exe
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.pdb
+D:\Fakultet\CSA\webshopservice\WebshopApp\obj\Debug\WebshopApp.csprojAssemblyReference.cache

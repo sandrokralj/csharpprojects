@@ -1,0 +1,9 @@
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Fakultet\PCS4\week 3 about_Sorting_a_List_start\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

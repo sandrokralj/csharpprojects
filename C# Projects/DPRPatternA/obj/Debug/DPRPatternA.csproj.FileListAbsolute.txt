@@ -1,0 +1,19 @@
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\bin\Debug\DPRPatternA.exe.config
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\bin\Debug\DPRPatternA.exe
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\bin\Debug\DPRPatternA.pdb
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\obj\Debug\DPRPatternA.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\obj\Debug\DPRPatternA.Form1.resources
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\obj\Debug\DPRPatternA.Properties.Resources.resources
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\obj\Debug\DPRPatternA.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\obj\Debug\DPRPatternA.exe
+C:\Users\stefa\Desktop\Fakultet\DPR\Pattern A\DPRPatternA\obj\Debug\DPRPatternA.pdb
+D:\Fakultet\DPR\DPRPatternA\bin\Debug\DPRPatternA.exe.config
+D:\Fakultet\DPR\DPRPatternA\bin\Debug\DPRPatternA.exe
+D:\Fakultet\DPR\DPRPatternA\bin\Debug\DPRPatternA.pdb
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.csprojAssemblyReference.cache
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.Form1.resources
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.Properties.Resources.resources
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.csproj.GenerateResource.cache
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.csproj.CoreCompileInputs.cache
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.exe
+D:\Fakultet\DPR\DPRPatternA\obj\Debug\DPRPatternA.pdb

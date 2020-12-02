@@ -1,0 +1,6 @@
+D:\Fakultet\CSA\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+D:\Fakultet\CSA\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+D:\Fakultet\CSA\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+D:\Fakultet\CSA\webshopservice\webshopservice\obj\Debug\MyWebShopContract.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+D:\Fakultet\CSA\webshopservice\webshopservice\obj\Debug\webshopservice.pdb

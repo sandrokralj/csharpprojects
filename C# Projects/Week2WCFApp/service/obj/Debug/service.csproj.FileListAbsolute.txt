@@ -1,0 +1,14 @@
+D:\Fakultet\CSA\service\service\bin\Debug\service.exe.config
+D:\Fakultet\CSA\service\service\bin\Debug\service.exe
+D:\Fakultet\CSA\service\service\bin\Debug\service.pdb
+D:\Fakultet\CSA\service\service\obj\Debug\service.csprojAssemblyReference.cache
+D:\Fakultet\CSA\service\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\service\service\obj\Debug\service.exe
+D:\Fakultet\CSA\service\service\obj\Debug\service.pdb
+D:\Fakultet\CSA\Week2WCFApp\service\bin\Debug\service.exe.config
+D:\Fakultet\CSA\Week2WCFApp\service\bin\Debug\service.exe
+D:\Fakultet\CSA\Week2WCFApp\service\bin\Debug\service.pdb
+D:\Fakultet\CSA\Week2WCFApp\service\obj\Debug\service.csprojAssemblyReference.cache
+D:\Fakultet\CSA\Week2WCFApp\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\Week2WCFApp\service\obj\Debug\service.exe
+D:\Fakultet\CSA\Week2WCFApp\service\obj\Debug\service.pdb

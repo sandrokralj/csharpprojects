@@ -1,0 +1,12 @@
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\bin\Debug\RacingFedApp.exe.config
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\bin\Debug\RacingFedApp.exe
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\bin\Debug\RacingFedApp.pdb
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.csprojAssemblyReference.cache
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.BlueScoutForm.resources
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.RacingFedForm.resources
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.Properties.Resources.resources
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.RedScoutForm.resources
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.csproj.GenerateResource.cache
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.csproj.CoreCompileInputs.cache
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.exe
+D:\Fakultet\PCS4\PCS4 Jan 2018\RacingFedApp_START\RacingFedApp\obj\Debug\RacingFedApp.pdb

@@ -1,0 +1,20 @@
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\bin\Debug\FastFoodService.dll.config
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\bin\Debug\FastFoodService.dll
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\bin\Debug\FastFoodService.pdb
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\obj\Debug\FastFoodService.csproj.CoreCompileInputs.cache
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\obj\Debug\FastFoodService.dll
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\obj\Debug\FastFoodService.pdb
+C:\Users\876989\source\repos\FastFoodService\FastFoodService\obj\Debug\FastFoodService.csprojResolveAssemblyReference.cache
+Z:\FastFoodService\FastFoodService\bin\Debug\FastFoodService.dll.config
+Z:\FastFoodService\FastFoodService\bin\Debug\FastFoodService.dll
+Z:\FastFoodService\FastFoodService\bin\Debug\FastFoodService.pdb
+Z:\FastFoodService\FastFoodService\obj\Debug\FastFoodService.csprojResolveAssemblyReference.cache
+Z:\FastFoodService\FastFoodService\obj\Debug\FastFoodService.dll
+Z:\FastFoodService\FastFoodService\obj\Debug\FastFoodService.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\bin\Debug\FastFoodService.dll.config
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\bin\Debug\FastFoodService.dll
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\bin\Debug\FastFoodService.pdb
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\obj\Debug\FastFoodService.csprojAssemblyReference.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\obj\Debug\FastFoodService.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\obj\Debug\FastFoodService.dll
+D:\Fakultet\CSA\CSAExamApril2018 solution\FastFoodService\obj\Debug\FastFoodService.pdb

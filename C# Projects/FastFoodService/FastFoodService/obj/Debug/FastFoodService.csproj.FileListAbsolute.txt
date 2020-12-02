@@ -1,0 +1,6 @@
+D:\Fakultet\CSA\FastFoodService\FastFoodService\bin\Debug\FastFoodService.dll.config
+D:\Fakultet\CSA\FastFoodService\FastFoodService\bin\Debug\FastFoodService.dll
+D:\Fakultet\CSA\FastFoodService\FastFoodService\bin\Debug\FastFoodService.pdb
+D:\Fakultet\CSA\FastFoodService\FastFoodService\obj\Debug\FastFoodService.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\FastFoodService\FastFoodService\obj\Debug\FastFoodService.dll
+D:\Fakultet\CSA\FastFoodService\FastFoodService\obj\Debug\FastFoodService.pdb

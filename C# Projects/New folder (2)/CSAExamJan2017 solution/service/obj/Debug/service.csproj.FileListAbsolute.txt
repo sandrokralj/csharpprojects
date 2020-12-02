@@ -1,0 +1,7 @@
+C:\Users\plius\Desktop\CSAExamJan2017\service\bin\Debug\service.dll.config
+C:\Users\plius\Desktop\CSAExamJan2017\service\bin\Debug\service.dll
+C:\Users\plius\Desktop\CSAExamJan2017\service\bin\Debug\service.pdb
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.csprojAssemblyReference.cache
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.dll
+C:\Users\plius\Desktop\CSAExamJan2017\service\obj\Debug\service.pdb

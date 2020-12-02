@@ -1,0 +1,16 @@
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines STARTUP\week 1 monitoring machines STARTUP\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\obj\Debug\WindowsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\875375\Desktop\code\PCS4\pcs4, week 1 monitoring machines FINAL\week 1 monitoring machines FINAL\WindowsApplication2\obj\Debug\WindowsApplication2.pdb

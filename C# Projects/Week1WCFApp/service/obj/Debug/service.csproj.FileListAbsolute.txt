@@ -1,0 +1,10 @@
+D:\Fakultet\CSA\Week1WCFApp\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\Week1WCFApp\service\bin\Debug\service.exe.config
+D:\Fakultet\CSA\Week1WCFApp\service\bin\Debug\service.exe
+D:\Fakultet\CSA\Week1WCFApp\service\bin\Debug\service.pdb
+D:\Fakultet\CSA\Week1WCFApp\service\bin\Debug\contract.dll
+D:\Fakultet\CSA\Week1WCFApp\service\bin\Debug\contract.pdb
+D:\Fakultet\CSA\Week1WCFApp\service\obj\Debug\service.csprojAssemblyReference.cache
+D:\Fakultet\CSA\Week1WCFApp\service\obj\Debug\service.csproj.CopyComplete
+D:\Fakultet\CSA\Week1WCFApp\service\obj\Debug\service.exe
+D:\Fakultet\CSA\Week1WCFApp\service\obj\Debug\service.pdb

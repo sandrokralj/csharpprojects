@@ -1,0 +1,6 @@
+D:\Fakultet\CSA\New folder\Week1WCFApp\contract\obj\Debug\contract.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\New folder\Week1WCFApp\contract\bin\Debug\contract.dll
+D:\Fakultet\CSA\New folder\Week1WCFApp\contract\bin\Debug\contract.pdb
+D:\Fakultet\CSA\New folder\Week1WCFApp\contract\obj\Debug\contract.dll
+D:\Fakultet\CSA\New folder\Week1WCFApp\contract\obj\Debug\contract.pdb
+D:\Fakultet\CSA\New folder\Week1WCFApp\contract\obj\Debug\contract.csprojAssemblyReference.cache

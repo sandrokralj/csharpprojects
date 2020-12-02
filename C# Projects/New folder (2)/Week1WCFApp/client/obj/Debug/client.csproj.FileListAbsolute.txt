@@ -1,0 +1,13 @@
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\bin\Debug\client.exe.config
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\bin\Debug\client.exe
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\bin\Debug\client.pdb
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\bin\Debug\contract.dll
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\bin\Debug\contract.pdb
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.Form1.resources
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.Properties.Resources.resources
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.csproj.CopyComplete
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.exe
+D:\Fakultet\CSA\New folder (2)\Week1WCFApp\client\obj\Debug\client.pdb

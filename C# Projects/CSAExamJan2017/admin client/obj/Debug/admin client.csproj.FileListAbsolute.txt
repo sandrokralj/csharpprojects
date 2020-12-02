@@ -1,0 +1,54 @@
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\bin\Debug\admin client.exe.config
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\bin\Debug\admin client.exe
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\bin\Debug\admin client.pdb
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\obj\Debug\admin_client.Properties.Resources.resources
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\obj\Debug\admin client.csproj.GenerateResource.Cache
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\obj\Debug\admin client.exe
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\obj\Debug\admin client.pdb
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\obj\Debug\admin client.csprojResolveAssemblyReference.cache
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\service\admin client\obj\Debug\admin_client.AdminForm.resources
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\bin\Debug\admin client.exe.config
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\obj\Debug\admin client.exe
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\obj\Debug\admin client.pdb
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\bin\Debug\admin client.exe
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\bin\Debug\admin client.pdb
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\obj\Debug\admin client.csprojResolveAssemblyReference.cache
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\obj\Debug\admin_client.AdminForm.resources
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\obj\Debug\admin_client.Properties.Resources.resources
+D:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystemSOLUTION\admin client\obj\Debug\admin client.csproj.GenerateResource.Cache
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\bin\Debug\admin client.exe.config
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\bin\Debug\admin client.exe
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\bin\Debug\admin client.pdb
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\obj\Debug\admin_client.AdminForm.resources
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\obj\Debug\admin_client.Properties.Resources.resources
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\obj\Debug\admin client.csproj.GenerateResource.Cache
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\obj\Debug\admin client.exe
+d:\Documents\SurfDrive\vakken\CSA\Exam\exam oktober 2016\solution\SignInSystem-Startup\admin client\obj\Debug\admin client.pdb
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\bin\Debug\admin client.exe.config
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\bin\Debug\admin client.exe
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\bin\Debug\admin client.pdb
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\obj\Debug\admin client.csprojResolveAssemblyReference.cache
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\obj\Debug\admin_client.AdminForm.resources
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\obj\Debug\admin_client.Properties.Resources.resources
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\obj\Debug\admin client.csproj.GenerateResource.Cache
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\obj\Debug\admin client.exe
+D:\Documents\SurfDrive\Documents\vakken\CSA\Exam\exam january 2017\code\OffersSystem-Startup\admin client\obj\Debug\admin client.pdb
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\bin\Debug\admin client.exe.config
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\bin\Debug\admin client.exe
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\bin\Debug\admin client.pdb
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin client.csprojAssemblyReference.cache
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin_client.AdminForm.resources
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin_client.Properties.Resources.resources
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin client.csproj.GenerateResource.cache
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin client.csproj.CoreCompileInputs.cache
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin client.exe
+C:\Users\avvett\Desktop\ES25\CSAExamJan2017\admin client\obj\Debug\admin client.pdb
+D:\Fakultet\CSA\CSAExamJan2017\admin client\bin\Debug\admin client.exe.config
+D:\Fakultet\CSA\CSAExamJan2017\admin client\bin\Debug\admin client.exe
+D:\Fakultet\CSA\CSAExamJan2017\admin client\bin\Debug\admin client.pdb
+D:\Fakultet\CSA\CSAExamJan2017\admin client\obj\Debug\admin_client.AdminForm.resources
+D:\Fakultet\CSA\CSAExamJan2017\admin client\obj\Debug\admin_client.Properties.Resources.resources
+D:\Fakultet\CSA\CSAExamJan2017\admin client\obj\Debug\admin client.csproj.GenerateResource.cache
+D:\Fakultet\CSA\CSAExamJan2017\admin client\obj\Debug\admin client.csproj.CoreCompileInputs.cache
+D:\Fakultet\CSA\CSAExamJan2017\admin client\obj\Debug\admin client.exe
+D:\Fakultet\CSA\CSAExamJan2017\admin client\obj\Debug\admin client.pdb
